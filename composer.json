@@ -36,13 +36,17 @@
     "techidev/tastyigniterextautomation": "dev-main",
     "techidev/tastyigniterextbroadcast": "dev-main",
     "techidev/tastyigniterextcart": "dev-main",
+    "techidev/tastyigniterextcoupons": "dev-main",
+    "techidev/tastyigniterextfrontend": "dev-main",
     "techidev/tastyigniterextlocal": "dev-main",
+    "techidev/tastyigniterextpages": "dev-main",
     "techidev/tastyigniterextpayregister": "dev-main",
     "techidev/tastyigniterextreservation": "dev-main",
+    "techidev/tastyigniterextsocialite": "dev-main",
     "techidev/tastyigniterextuser": "dev-main",
     "techidev/tastyigniterthemeorange": "dev-main",
     "league/glide": "~2.2",
-    "enshrined/svg-sanitize": "^0.22"
+    "enshrined/svg-sanitize": "^1.0"
   },
   "require-dev": {
     "fakerphp/faker": "~1.14",
